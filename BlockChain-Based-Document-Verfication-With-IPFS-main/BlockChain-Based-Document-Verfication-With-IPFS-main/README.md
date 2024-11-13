@@ -23,7 +23,7 @@ This project aims to create a secure and decentralized system for document verif
 
 
 2. Install the required packages:
-  ``cd BlockChain-Based-Document-Verfication-With-IPFS``
+  ``cmd BlockChain-Based-Document-Verfication-With-IPFS``
   `` npm install``
 
 4. deploy the contract.sol using remixe online ide
